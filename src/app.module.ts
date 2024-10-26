@@ -1,5 +1,6 @@
 import { Module } from "@nestjs/common";
 import { StudentModule } from "./modules/student/student.module";
+import { StudentModule } from './modules/student/student.module';
 
 
 @Module({
